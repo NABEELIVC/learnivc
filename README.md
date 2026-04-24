@@ -1,1 +1,3 @@
 # learnivc
+learnt it 
+easy
